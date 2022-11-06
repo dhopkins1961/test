@@ -1,5 +1,5 @@
-﻿<!-- Comment -->
-# DataStation.Exchange.Export 
+﻿<base target="_blank">
+
 ## Export Service Client Generation
 
 This is the configuration file used by AutoRest to generate the service clients
