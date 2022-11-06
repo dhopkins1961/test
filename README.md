@@ -1,6 +1,4 @@
-﻿<base target="_blank">
-
-## Export Service Client Generation
+﻿## Export Service Client Generation
 
 This is the configuration file used by AutoRest to generate the service clients
 
@@ -9,7 +7,9 @@ This is the configuration file used by AutoRest to generate the service clients
 ## Getting Started
 
 ### Step 1: Download Node.js Installer
-In a web browser, navigate to the [Node.js web site](https://nodejs.org/en/download/). 
+<!-- [Node.js web site](https://nodejs.org/en/download/). -->
+In a web browser, navigate to the
+<a href="https://nodejs.org/en/download/" target="_blank">Node.js web site</a>. 
 Click the Windows Installer button to download the latest default version. 
 At the time this article was written, version 10.16.0-x64 was the latest version. 
 The Node.js installer includes the NPM package manager.
